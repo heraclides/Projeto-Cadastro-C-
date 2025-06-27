@@ -90,8 +90,8 @@ Endereço ......: Rua das Flores, 123
 CPF ...........: 123.456.789-00
 RG ............: 12.345.678-9
 Valor de Compra: R$ 1.000,00
-Imposto .......: R$ 50,00
-Total a Pagar : R$ 1.050,00
+Imposto .......: R$ 100,00
+Total a Pagar : R$ 1.100,00
 🛠️ Tecnologias
 C#
 Entrada e saída de dados;
