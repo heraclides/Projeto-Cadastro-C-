@@ -1,0 +1,14 @@
+E:\cursos\fullStack\projetos\atividade2\clientLab\ClientLab\bin\Debug\net8.0\ClientLab.exe
+E:\cursos\fullStack\projetos\atividade2\clientLab\ClientLab\bin\Debug\net8.0\ClientLab.deps.json
+E:\cursos\fullStack\projetos\atividade2\clientLab\ClientLab\bin\Debug\net8.0\ClientLab.runtimeconfig.json
+E:\cursos\fullStack\projetos\atividade2\clientLab\ClientLab\bin\Debug\net8.0\ClientLab.dll
+E:\cursos\fullStack\projetos\atividade2\clientLab\ClientLab\bin\Debug\net8.0\ClientLab.pdb
+E:\cursos\fullStack\projetos\atividade2\clientLab\ClientLab\obj\Debug\net8.0\ClientLab.GeneratedMSBuildEditorConfig.editorconfig
+E:\cursos\fullStack\projetos\atividade2\clientLab\ClientLab\obj\Debug\net8.0\ClientLab.AssemblyInfoInputs.cache
+E:\cursos\fullStack\projetos\atividade2\clientLab\ClientLab\obj\Debug\net8.0\ClientLab.AssemblyInfo.cs
+E:\cursos\fullStack\projetos\atividade2\clientLab\ClientLab\obj\Debug\net8.0\ClientLab.csproj.CoreCompileInputs.cache
+E:\cursos\fullStack\projetos\atividade2\clientLab\ClientLab\obj\Debug\net8.0\ClientLab.dll
+E:\cursos\fullStack\projetos\atividade2\clientLab\ClientLab\obj\Debug\net8.0\refint\ClientLab.dll
+E:\cursos\fullStack\projetos\atividade2\clientLab\ClientLab\obj\Debug\net8.0\ClientLab.pdb
+E:\cursos\fullStack\projetos\atividade2\clientLab\ClientLab\obj\Debug\net8.0\ClientLab.genruntimeconfig.cache
+E:\cursos\fullStack\projetos\atividade2\clientLab\ClientLab\obj\Debug\net8.0\ref\ClientLab.dll
